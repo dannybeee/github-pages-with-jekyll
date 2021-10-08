@@ -1,5 +1,5 @@
 ---
-title: "Examples"
+title: "nice"
 ---
 
 Make it happen.
